@@ -7,6 +7,6 @@ This site is designed for readers who will use such skills and knowledge in rese
 
 Although readers with prior knowledge of data analysis or statistics will grasp these concepts more quickly, this repository is designed specifically for those who have not previously taken statistics or data science courses. Programming and visualization techniques will be applied regularly to new problems. No prior experience (with analysis) is necessary to benefit from this, but many of the statistical and analytical techniques covered here do not appear in a typical statistics curriculum. The methods rely heavily on sampling and simulation and require computers to carry them out. For the most effective practice, I highly recommend using a Jupyter Notebook (Python) with a MATLAB workflow for full accessibility. There are reading and practice sections in each part, but the practice problems in these sections are ungraded. You are required to follow the course material. Please put forth an honest effort in everything you do, and do not copy or duplicate your work. I highly recommend completing the practice assignments as you go rather than leaving them all to the end.
 
-Contributor List
-If you have suggestions or corrections, please e-mail me at pcw8531@snu.ac.kr (or pcw8531gmail.com). If I change based on your feedback, I will add you to the contributor list (unless you ask to remain anonymous).
-If you include at least part of the sentence in which the error appears, it will be easier for me to find it. Page and section numbers are OK too. Thanks! 
+Contributor List: If you have suggestions or corrections, please e-mail me at pcw8531gmail.com (or pcw8531@snu.ac.kr ). If I change based on your feedback, I will add you to the contributor list (unless you ask to remain anonymous). If you include at least part of the sentence in which the error appears, it will be easier for me to find it. Page and section numbers are OK too. 
+
+Thanks! 
