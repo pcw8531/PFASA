@@ -4,7 +4,7 @@ Practical Foundation of Applied Systems Analysis - Data Repository
 
 Welcome to the data repository for the Practical Foundation of Applied Systems Analysis. This repository is intended to supplement the book by providing readers with real-world datasets used throughout the course materials. The datasets span across various topics, including basic descriptive statistics, applied time series analysis, and systems analysis.
 
-These datasets are here to help readers gain hands-on experience in research methods and data science. They will help you implement practical techniques across many disciplines and establish a solid foundation for more advanced data science, statistics, and systems analysis skills.
+These datasets are here to help readers gain hands-on experience in research methods and analysis. They will help you implement practical techniques across many disciplines and establish a solid foundation for more advanced data science, statistics, and systems analysis skills.
 
 The examples provided here, most of which are derived from real datasets, will enable you to apply systems analysis and predictive techniques to real-world scenarios. The repository is designed to cater to both beginners in statistics or data science and those with prior knowledge of these fields. The data can be processed and visualized in a variety of programming environments, though we highly recommend using Jupyter Notebooks (Python) or MATLAB for full accessibility.
 
